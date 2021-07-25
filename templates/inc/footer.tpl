@@ -3,7 +3,7 @@
     <div class="footer_wrapper">
         {$dev="<a rel='author' target='blank'
             href='http://rudloff.pro/'>
-            Pierre Rudloff
+            Pi
         </a>"}
         {t params=['@dev'=>$dev]}Code by @dev{/t}
 
@@ -11,7 +11,7 @@
 
         {$designer="<a rel='author' target='blank'
             href='http://olivierhaquette.fr'>
-            Olivier Haquette
+            Olivinha sa silva
         </a>"}
         {t params=['@designer' => $designer]}Design by @designer{/t}
 
