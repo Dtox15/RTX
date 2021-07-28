@@ -2,7 +2,7 @@
 {include file='inc/header.tpl'}
 <main class="main">
 
-alt="{$config->appName}" width="328" height="284"></div>
+</div>alt="{$config->appName}" width="328" height="284"
 <div><img class="logo" src="{base_url}/img/logo.png"
     
     <form action="{path_for name="info"}">
