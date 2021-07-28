@@ -2,6 +2,7 @@
 {include file='inc/header.tpl'}
 <main class="main">
 
+<div><img class="logo" src="{base_url}/img/logo.png"
 
               alt="{$config->appName}" width="328" height="284"></div>
 
