@@ -3,6 +3,7 @@
 <main class="main">
 
 alt="{$config->appName}" width="328" height="284"></div>
+<div><img class="logo" src="{base_url}/img/logo.png"
     
     <form action="{path_for name="info"}">
         <label class="labelurl" for="url">
