@@ -2,9 +2,9 @@
 {include file='inc/header.tpl'}
 <main class="main">
 
-</div>alt="{$config->appName}" width="328" height="284"
 <div><img class="logo" src="{base_url}/img/logo.png"
-    
+              alt="{$config->appName}" width="328" height="284"></div>
+
     <form action="{path_for name="info"}">
         <label class="labelurl" for="url">
             {t}Copy here the URL of your videooouuuuuuuuUUUU (YouTube, Dailymotion, etc.){/t}
