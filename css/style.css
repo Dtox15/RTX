@@ -1,6 +1,6 @@
 body {
     background-color: #0d38bb;
-    background-image: url("../img/fond.jpg");
+    background-image: url();
 }
 
 .page {
@@ -57,11 +57,11 @@ header a:hover {
 }
 
 .share {
-    background-image: url("../img/share.png");
+    background-image: url();
 }
 
 .sharemask {
-    background-image: url("../img/sharemask.png");
+    background-image: url();
     background-position: top left;
     background-repeat: no-repeat;
     height: 38px;
@@ -189,7 +189,7 @@ footer a:hover {
 
 .URLinput {
     background-color: #fff;
-    border: 3px solid #a5a5a5;
+    border: 3px solid #f05825;
     border-radius: 10px;
     color: #3f3f3f;
     font-weight: 800;
